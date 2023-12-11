@@ -18,5 +18,3 @@ Ce projet est un exemple de correction TypeScript pour un défi spécifique. L'o
 
    ```bash
    git clone https://github.com/haroune2/ts.git
-   cd ts
-   tsc challenge.ts
